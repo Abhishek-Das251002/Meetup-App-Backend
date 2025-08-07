@@ -5,7 +5,7 @@
   "main": "events.model.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node event.apiRoutes.js"
+    "dev": "node index.js"
   },
   "keywords": [],
   "author": "",
