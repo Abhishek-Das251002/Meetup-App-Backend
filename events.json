@@ -7,7 +7,7 @@
     "endingTime": "2025-10-12T17:00:00.000Z",
     "hostName": ["TechWorld Inc."],
     "eventDetails": "Join the premier AI Tech Summit of 2025 where top minds converge to discuss breakthroughs in artificial intelligence. Explore real-world applications across industries, from healthcare to robotics. Attend hands-on workshops, panel discussions, and networking sessions. Discover how AI is revolutionizing business processes and product innovation. The summit also features startup pitches and investor meetups for tech entrepreneurs.",
-    "eventImgUrl": "https://imgs.search.brave.com/2WSlZ-06bapdYoI4bcRtUKcreUK3doLYEs7ngGaOG0w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YXNwLmV2ZW50cy9D/TElFTlRfSW5mb3Jt/YV9fQUFEREUyOERf/NTA1Nl9CNzM5XzU0/ODFENjNCRjg3NUIw/REYvc2l0ZXMvYWkt/c3VtbWl0LWxvbmRv/bi0yMDIzL21lZGlh/LzIwMjMtQUktU3Vt/bWl0XzIyNjIuanBn",
+    "eventImgUrl": "/assets/allImgs/e1.webp",
     "additionalInfo": {
       "dressCode": "Business Casual",
       "parking": "Available at venue"
@@ -19,12 +19,12 @@
       {
         "name": "Dr. Meera Sharma",
         "designation": "AI Researcher, Google",
-        "speakerImgUrl": "https://imgs.search.brave.com/5Bq0Gv6ZRWnAH-kIYRBwUo1fxo683Ix9qpFErl5Okvc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9wYXNz/cG9ydC1waWN0dXJl/LWJ1c2luZXNzd29t/YW4tYnJvd24taGFp/ci1pc29sYXRlZC13/aGl0ZS1iYWNrZ3Jv/dW5kLWN1dC1vdXQt/NDk2MDI4NzUuanBn"
+        "speakerImgUrl": "/assets/allImgs/e1s1.webp"
       },
       {
         "name": "Arjun Patel",
         "designation": "CEO, BrainWave AI",
-        "speakerImgUrl": "https://imgs.search.brave.com/Ci2a0rmWh2aOM6LWRWKVKuZqHn5q2VF54pXVMAFIHgg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzUyL2Q2/L2M5LzUyZDZjOTgx/NWQ2MDRhZjExMGY3/YTE2Njc1YjU2NmZl/LmpwZw"
+        "speakerImgUrl": "/assets/allImgs/e1s2.webp"
       }
     ]
   },
@@ -36,7 +36,7 @@
     "endingTime": "2025-11-05T15:00:00.000Z",
     "hostName": ["Founders Hub"],
     "eventDetails": "This online conference is for early-stage startup founders and entrepreneurs. Learn about growth hacking strategies, funding, user acquisition, and scaling operations. Top VCs, mentors, and successful founders share real-life lessons and actionable advice. Get guidance on building MVPs, refining your pitch deck, and finding product-market fit. Attendees will receive exclusive access to templates, resources, and post-event mentorship.",
-    "eventImgUrl": "https://imgs.search.brave.com/zniRUbOALMZHb0E3FS8aUfExsp8RTqt_E_2QF0NNMG8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3RhcnR1cGJsaW5r/LmNvbS9ibG9nL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzAx/LzUzMzY0NzA0NzE3/XzcyOGMxNDY5MTRf/ay0xMDI0eDY4My5q/cGc",
+    "eventImgUrl": "/assets/allImgs/e2.webp",
     "additionalInfo": {
       "platform": "Zoom",
       "recording": "Available after event"
@@ -48,7 +48,7 @@
       {
         "name": "Neha Verma",
         "designation": "Startup Coach",
-        "speakerImgUrl": "https://imgs.search.brave.com/hl3Ld0nAxKaxTIsP8hHJcn1YkVTBos67dr6yzF4fcO4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Q1Lzk0/L2JlL2Q1OTRiZTli/YWJjOTYyZDIzZWFk/NjY5NjFmZjljNzdi/LmpwZw"
+        "speakerImgUrl": "/assets/allImgs/e2s1.webp"
       }
     ]
   },
@@ -60,7 +60,7 @@
     "endingTime": "2025-09-20T16:00:00.000Z",
     "hostName": ["Creative Minds Studio"],
     "eventDetails": "Dive into user experience and interface design with this one-day intensive bootcamp. Learn the design thinking process, wireframing, prototyping, and usability testing. Instructors will walk you through Figma and Adobe XD tools. Gain hands-on experience by working on a mini project and get peer reviews. Ideal for beginners and product developers seeking UI/UX fundamentals. Certificate of completion provided.",
-    "eventImgUrl": "https://imgs.search.brave.com/JOwEDpOVeIPsNswINw8Jnrxosz42u1I0Q2wsGlHFoPY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bm9ibGVkZXNrdG9w/LmNvbS9yYWlscy9h/Y3RpdmVfc3RvcmFn/ZS9yZXByZXNlbnRh/dGlvbnMvcmVkaXJl/Y3QvZXlKZmNtRnBi/SE1pT25zaVpHRjBZ/U0k2TWpjeU5UTXNJ/bkIxY2lJNkltSnNi/MkpmYVdRaWZYMD0t/LTcxNDEzY2NiY2Jl/MjBmMTk3NjY1NzNl/ZmNjMjMyMWI1OWE1/MTkyN2YvZXlKZmNt/RnBiSE1pT25zaVpH/RjBZU0k2ZXlKbWIz/SnRZWFFpT2lKM1pX/SndJaXdpY1hWaGJH/bDBlU0k2TnpBc0lu/SmxjMmw2WlNJNk9E/QXdmU3dpY0hWeUlq/b2lkbUZ5YVdGMGFX/OXVJbjE5LS0xY2Fh/ZDcyOGY2MGIzNDUy/OTE4MmYzOTUwYjQy/NmU5YzY1YmQyMDJk/L1VYX2Rlc2lnbl9i/b290Y2FtcF9zdHVk/ZW50LmpwZw",
+    "eventImgUrl": "/assets/allImgs/e3.webp",
     "additionalInfo": {
       "material": "Laptop required",
       "certificate": "Yes"
@@ -72,7 +72,7 @@
       {
         "name": "Sidharth Rao",
         "designation": "Lead UX Designer, Zeta",
-        "speakerImgUrl": "https://imgs.search.brave.com/krFlNmGzbbPCCcNe64rfpgYvW7dYYPeW5LkPa4zjxFQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA3LzU2LzYyLzcz/LzM2MF9GXzc1NjYy/NzM3Nl9BeXZIUFZD/M2J0TWk5eHRJc2hZ/NmpaUU5IME9CWWNW/dy5qcGc"
+        "speakerImgUrl": "/assets/allImgs/e3s1.webp"
       }
     ]
   },
@@ -84,7 +84,7 @@
     "endingTime": "2025-12-02T13:00:00.000Z",
     "hostName": ["CryptoVerse Academy"],
     "eventDetails": "Understand blockchain from basics to real-world uses in this concise online workshop. Learn how decentralization works, what smart contracts are, and why Web3 is the future. We'll break down common myths and introduce you to blockchain development tools. A great event for anyone curious about crypto, DeFi, and NFTs. No prior technical knowledge required. Includes live Q&A with experts.",
-    "eventImgUrl": "https://imgs.search.brave.com/SPQuLab66wG9s83XySbOz9E_KE069uxGefzRfIxVH3A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2ltcGxpbGVhcm4u/Y29tL2ljZTkvZnJl/ZV9yZXNvdXJjZXNf/YXJ0aWNsZV90aHVt/Yi9ob3dfYmxvY2tj/aGFpbl93b3Jrcy5q/cGc",
+    "eventImgUrl": "/assets/allImgs/e4.webp",
     "additionalInfo": {
       "platform": "Google Meet",
       "language": "English"
@@ -96,7 +96,7 @@
       {
         "name": "Ravi Kumar",
         "designation": "Blockchain Consultant",
-        "speakerImgUrl": "https://imgs.search.brave.com/AP92V2ck8JMO6_yoCc9dSiLY0Z7mLEELC5EKa2eDLng/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzU2LzE1LzQ2/LzM2MF9GXzU2MTU0/NjgzXzF3RXdoVXpa/Q1IwUHg3c3VjMXUx/ZTR0NkFjNkxqZThh/LmpwZw"
+        "speakerImgUrl": "/assets/allImgs/e4s1.webp"
       }
     ]
   },
@@ -108,7 +108,7 @@
     "endingTime": "2025-10-10T15:00:00.000Z",
     "hostName": ["HealthFirst NGO"],
     "eventDetails": "An open awareness camp focusing on mental wellness and psychological health. The event includes talks from psychologists, meditation sessions, and personal counseling booths. Learn about stress management, anxiety, depression, and self-care practices. Free for all attendees with registration. Community-focused and family-friendly environment. Refreshments and wellness kits provided.",
-    "eventImgUrl": "https://imgs.search.brave.com/svXyeFBXaO3mtdBUk53Lvt8EoYbkb5OhoTYD-vq0Fzs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS12ZWN0/b3IvbWVudGFsLWhl/YWx0aC1hd2FyZW5l/c3MtbW9udGgtbWF5/LXRha2UtY2FyZS15/b3VyLWJvZHktdGFr/ZS1jYXJlLXlvdXIt/aGVhbHRoLW1pbmRf/NzU4ODk0LTE4MjMu/anBnP3NlbXQ9YWlz/X2l0ZW1zX2Jvb3N0/ZWQmdz03NDA",
+    "eventImgUrl": "/assets/allImgs/e5.webp",
     "additionalInfo": {
       "food": "Snacks provided",
       "registration": "Free entry"
@@ -120,7 +120,7 @@
       {
         "name": "Dr. Ananya Singh",
         "designation": "Clinical Psychologist",
-        "speakerImgUrl": "https://imgs.search.brave.com/sMolZHl_gPLknm9_F0QCau2Jkc5f52N7QC8HfQ85Ino/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzIwLzgz/LzZlLzIwODM2ZTFj/OGY0ZTM1MjEwZmY5/MmEwZjlhYzEzYjNi/LmpwZw"
+        "speakerImgUrl": "/assets/allImgs/e5s1.webp"
       }
     ]
   },
@@ -132,7 +132,7 @@
     "endingTime": "2025-09-15T18:00:00.000Z",
     "hostName": ["CodeConnect India"],
     "eventDetails": "A gathering of mobile developers and engineers building cross-platform apps using React Native. Network with developers and share your portfolio. Learn from engineers who built production-grade RN apps. Walkthrough of performance optimization and native module integration. Live debugging and Q&A included. Swag kits for attendees. Snacks and networking games at the end.",
-    "eventImgUrl": "https://imgs.search.brave.com/8F5IN9A29zftj2CwJ0rD3EewIIsDhnlGEDv2lD53VJ0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZWFj/dG5hdGl2ZS5kZXYv/YXNzZXRzL2ltYWdl/cy9ybm1zZi1hdWd1/c3QtMjAxNi1uZXRm/bGl4LWMzYTk4YWQy/YzQ5OTBkZGU1ZjMy/YTc4YTk1M2I2YjAy/LmpwZw",
+    "eventImgUrl": "/assets/allImgs/e6.webp",
     "additionalInfo": {
       "wifi": "Yes",
       "networking": "Post-event mixer"
@@ -144,7 +144,7 @@
       {
         "name": "Karan Bedi",
         "designation": "Senior Developer, Razorpay",
-        "speakerImgUrl": "https://imgs.search.brave.com/Vn0_EPC4IB90BCifjdt3vPiBCiRp8QO-uR30_we6PZQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE2/OTY1MDU1MjM4NjUt/ODRjN2M5MzcyOTAx/P2ZtPWpwZyZxPTYw/Jnc9MzAwMCZpeGxp/Yj1yYi00LjEuMCZp/eGlkPU0zd3hNakEz/ZkRCOE1IeHpaV0Z5/WTJoOE0zeDhjR0Z6/YzNCdmNuUWxNakJ3/YUc5MGIzeGxibnd3/Zkh3d2ZIeDhNQT09"
+        "speakerImgUrl": "/assets/allImgs/e6s1.webp"
       }
     ]
   },
@@ -156,7 +156,7 @@
     "endingTime": "2025-08-22T11:30:00.000Z",
     "hostName": ["LensLords Club"],
     "eventDetails": "Explore the city through a lens in this guided photography walk. Learn composition, lighting, and candid shooting techniques. Suitable for beginners to intermediate photographers. Mobile and DSLR users welcome. Each participant gets feedback on their best shots at the end. Chance to be featured in LensLords annual magazine. Refreshments included midway through the walk.",
-    "eventImgUrl": "https://imgs.search.brave.com/kKeYwWTjrcOV8_9AsZ2YstDhevqAoQOsjdgH7o6Lw_4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGlnaXRhbHBob3Rv/bWVudG9yLmNvbS9w/aG90b2dyYXBoeS8y/MDE4LzAzL3dvcmtz/aG9wLXRvdXItcGhv/dG8td2Fsay0yMS03/NTB4Mzk0LmpwZw",
+    "eventImgUrl": "/assets/allImgs/e7.webp",
     "additionalInfo": {
       "gear": "Bring your own camera",
       "dressCode": "Comfortable walking shoes"
@@ -168,7 +168,7 @@
       {
         "name": "Priya Das",
         "designation": "Travel Photographer",
-        "speakerImgUrl": "https://imgs.search.brave.com/pzka9sJ9nMO5Z4st3uvrJyTm1DehL-FH0KJq_tPTOKQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhLzdk/LzRjLzJhN2Q0YzRi/YzEzODFhNDc2Yjhi/OGE4NTg4NWFjMzky/LmpwZw"
+        "speakerImgUrl": "/assets/allImgs/e7s1.webp"
       }
     ]
   },
@@ -180,7 +180,7 @@
     "endingTime": "2025-11-08T17:30:00.000Z",
     "hostName": ["GreenEarth Foundation"],
     "eventDetails": "The Eco Living Fair brings together innovators, eco-entrepreneurs, and green thinkers. Explore sustainable living solutions — from zero-waste to solar energy. Workshops on composting, recycling, and upcycling. Organic stalls and live demos throughout the day. Great for families and school students. Eco-friendly merchandise giveaways and eco-games for kids.",
-    "eventImgUrl": "https://imgs.search.brave.com/7XUy3Ey-_Ii_RC5Vno8K7xVosbs59AR3jM8CKcZXAc8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Y2hlYXBvZ3VpZGVz/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/c2l0ZXMvMi8yMDE0/LzA1L2Vjb2xpZmVm/YWlyLTEwMjR4NjAw/LmpwZw",
+    "eventImgUrl": "/assets/allImgs/e8.webp",
     "additionalInfo": {
       "ecoKit": "Free for first 100 entries",
       "parking": "Use public transport"
@@ -192,7 +192,7 @@
       {
         "name": "Vikas Mehra",
         "designation": "Environmental Activist",
-        "speakerImgUrl": "https://imgs.search.brave.com/msTmTW6qHDnYBMwqVXn6HGjLmdEZATLTK_XHOsEUgcE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cy4x/MjNyZi5jb20vNDUw/d20vc2F0dXJhODYv/c2F0dXJhODYxOTA3/L3NhdHVyYTg2MTkw/NzAyMDM2LzEyNzQx/OTU0Ni1pbmRpYW4t/aGFuZHNvbWUtbWFu/LXdlYXJpbmctYmx1/ZS1zaGlydC1vbi15/ZWxsb3ctYmFja2dy/b3VuZC5qcGc_dmVy/PTY"
+        "speakerImgUrl": "/assets/allImgs/e8s1.webp"
       }
     ]
   },
@@ -204,7 +204,7 @@
     "endingTime": "2025-10-30T17:00:00.000Z",
     "hostName": ["PeopleMatters Group"],
     "eventDetails": "As work environments evolve, this conclave focuses on hybrid work culture, employee wellbeing, and remote team management. Industry HR leaders share insights on recruitment trends and automation. Explore how technology is changing people management. Includes live polling, breakout rooms, and downloadable resources. Ideal for HR professionals, managers, and startup leaders.",
-    "eventImgUrl": "https://imgs.search.brave.com/JkFhaIetlOOMO-SjsLIJpvrGdep6aon4koJG0gReZy0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Z3JlYXRsYWtlcy5l/ZHUuaW4vZ3VyZ2Fv/bi9hc3NldHMvZ3Jl/YXRsYWtlcy9zbGlk/ZXIvaHItY29uY2xh/dmUtMTMuanBn",
+    "eventImgUrl": "/assets/allImgs/e9.webp",
     "additionalInfo": {
       "recording": "Available post-event",
       "language": "English"
@@ -216,7 +216,7 @@
       {
         "name": "Sonal Desai",
         "designation": "CHRO, PeopleMatters",
-        "speakerImgUrl": "https://imgs.search.brave.com/8A9aaV4IXLDUApopEj46lPR4GxQQVAYZccdgtz4TbzU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzk2LzAwLzQ1/LzM2MF9GXzk2MDA0/NTQxX3RpdXNjUXNV/UWtyN0ZGS3pET0hC/UUw4SzBlVzd6WWRq/LmpwZw"
+        "speakerImgUrl": "/assets/allImgs/e9s1.webp"
       }
     ]
   }
